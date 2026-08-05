@@ -1,5 +1,5 @@
-const CONFIG={
+const CONFIG = {
 
-SERVER:"http://localhost:3000"
+    SERVER: ""
 
 };
